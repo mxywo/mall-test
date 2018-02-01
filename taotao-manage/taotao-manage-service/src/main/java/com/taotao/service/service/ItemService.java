@@ -9,6 +9,10 @@ public interface ItemService {
 
 	TbItem getItemById(long itemId);
 	EUDadaGridResult getItemList(int page,int rows);
-	TaotaoResult addItem(TbItem tbItem,String desc) throws Exception;
-	TaotaoResult addItemDesc(Long id , String desc);
+
+	TaotaoResult addItem(TbItem tbItem, String desc, String itemParam) throws Exception;
+
+	TaotaoResult addItemDesc(Long id, String desc);
+
+	TaotaoResult addItemParamItem(Long id, String itemParam);
 }
