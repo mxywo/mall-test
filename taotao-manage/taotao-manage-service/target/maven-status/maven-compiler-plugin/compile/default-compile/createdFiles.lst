@@ -5,4 +5,6 @@ com\taotao\service\service\IpicService.class
 com\taotao\service\service\Impl\ItemServiceImpl.class
 com\taotao\service\service\ItemParamService.class
 com\taotao\service\service\Impl\itemParamServiceImpl.class
+com\taotao\service\service\Impl\ItemParamItemServiceImpl.class
 com\taotao\service\service\Impl\ItemCatServiceImpl.class
+com\taotao\service\service\ItemParamItemService.class
