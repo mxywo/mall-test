@@ -15,4 +15,6 @@ public interface ItemService {
 	TaotaoResult addItemDesc(Long id, String desc);
 
 	TaotaoResult addItemParamItem(Long id, String itemParam);
+
+//	TaotaoResult deleteItem(Long id);
 }
