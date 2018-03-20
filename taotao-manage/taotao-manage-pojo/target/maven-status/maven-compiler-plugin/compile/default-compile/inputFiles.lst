@@ -1,22 +1,22 @@
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbItemExample.java
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbContentCategory.java
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbItemParamItem.java
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbContentCategoryExample.java
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbOrder.java
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbOrderItem.java
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbOrderItemExample.java
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbContent.java
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbItemParam.java
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbItemParamItemExample.java
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbItemDescExample.java
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbItemCat.java
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbItemCatExample.java
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbItem.java
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbUserExample.java
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbItemParamExample.java
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbOrderShipping.java
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbItemDesc.java
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbContentExample.java
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbOrderExample.java
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbOrderShippingExample.java
-D:\workspace\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbUser.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbItemParamItem.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbContent.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbItemParamItemExample.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbItemCat.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbUserExample.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbContentCategoryExample.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbItemDescExample.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbItemExample.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbItemCatExample.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbItemDesc.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbContentExample.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbItem.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbItemParamExample.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbOrderItemExample.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbOrder.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbContentCategory.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbOrderExample.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbOrderItem.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbOrderShipping.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbUser.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbOrderShippingExample.java
+D:\Intellij WorkSpace\mall-test\mall-test\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\pojo\TbItemParam.java

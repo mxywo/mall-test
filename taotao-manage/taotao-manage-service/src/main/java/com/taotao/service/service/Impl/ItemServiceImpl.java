@@ -129,4 +129,12 @@ public class ItemServiceImpl implements ItemService {
 		itemParamItemMapper.insert(tbItemParamItem);
 		return TaotaoResult.ok();
 	}
+
+//	@Override
+//	public TaotaoResult deleteItem(TbItem tbItem) {
+//		TbItemExample example = new TbItemExample();
+//		TbItemExample.Criteria criteria = example.createCriteria();
+//		itemMapper.deleteByPrimaryKey(id);
+//		return TaotaoResult.ok();
+//	}
 }

@@ -38,4 +38,11 @@ public class ItemController {
 		TaotaoResult result = itemService.addItem(tbItem,desc,itemParam);
 		return result;
 	}
+
+//	@RequestMapping(value = "item/delete",method = RequestMethod.POST)
+//	@ResponseBody
+//	public TaotaoResult deleteItemById(@PathVariable TbItem tbItem) {
+//		TaotaoResult result = itemService.deleteItem(itemId);
+//		return result;
+//	}
 }
