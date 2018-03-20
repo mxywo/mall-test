@@ -2,6 +2,7 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/taotao-manage/taotao-manage-controller" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-portal" />
     <file type="web" url="file://$PROJECT_DIR$/taotao-rest" />
   </component>
   <component name="MavenProjectsManager">
@@ -12,14 +13,8 @@
         <option value="$PROJECT_DIR$/taotao-manage/pom.xml" />
         <option value="$PROJECT_DIR$/mybatis-generator/pom.xml" />
         <option value="$PROJECT_DIR$/taotao-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-portal/pom.xml" />
       </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/mybatis-generator/pom.xml" />
-        <option value="$PROJECT_DIR$/taotao-manage-pojo/pom.xml" />
-        <option value="$PROJECT_DIR$/taotao-manage/pom.xml" />
-      </set>
     </option>
   </component>
   <component name="ProjectRootManager">
